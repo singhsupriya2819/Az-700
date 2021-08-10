@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "AZ-700 : Create an Azure private endpoint using Azure PowerShell",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions",
+    "Files":[
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M07-Unit%203%20Create%20an%20Azure%20private%20endpoint%20using%20Azure%20PowerShell.md",
+        "Order": 1
+       },
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/master/Instructions/Exercises/M07-Unit%205%20Restrict%20network%20access%20to%20PaaS%20resources%20with%20virtual%20network%20service%20endpoints.md",
+        "Order": 2
+        }
+        ]
+      }
+     ]
