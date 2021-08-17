@@ -3,7 +3,7 @@
     "Parameter": [
       {
         "Name": "max-cpu-cores",
-        "Value": "4"
+        "Value": "6"
       }
     ]
   }
